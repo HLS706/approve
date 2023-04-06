@@ -2,6 +2,12 @@
 1-0-2-2-4-u-0-_-a-2-2-4:IDSELLER:MONTH/5
 1-0-1-4-1-u-0-_-a-1-4-1:SHINWARI:WEEK/5
 1-0-3-1-2-u-0-_-a-3-1-2:ARIAN: WEEK/5
-1-6-6-7-8-u-0-_-a-6-6-7-8:HAZRAT:DAY/5
+1-6-6-7-8-u-0-_-a-6-6-7-8:HAZRAT:FREE
 1-0-4-0-5-u-0-_-a-4-0-5:MATIN:FREE
 1-0-2-8-3-u-0-_-a-2-8-3:SANA: FREE
+1-0-5-0-5-u-0-_-a-5-0-5:HAROON:FREE
+1-0-6-3-5-u-0-_-a-6-3-5:FAWAD:FREE
+1-0-2-0-1-u-0-_-a-2-0-1:ELYAS:FREE
+1-0-3-9-3-u-0-_-a-3-9-3:HYAT:FREE
+1-0-3-1-3-u-0-_-a-3-1-3:JARA:FREE
+ 
